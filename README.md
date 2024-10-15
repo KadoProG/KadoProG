@@ -1,6 +1,6 @@
 # KadoProG
 
-2024/08/02時点で、GitHubの草に、アルバイト・インターンなどの有給のものは含まれていません！！！！
+2024/10/15 時点で、GitHubの草に、アルバイト・インターンなどの有給のものは含まれていません！！！！
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KadoProG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
